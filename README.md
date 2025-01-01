@@ -1,4 +1,4 @@
-Alchemelody
+ALCHEMELODY -
 Alchemelody is an innovative approach to learning how to "play music by ear," blending ancient concepts with modern technology. Designed as a unique "bio-hack" for the human subconscious, Alchemelody combines the principles of planetary hours with auditory and visual stimuli to teach users how to sing, write music, and harmonize effortlessly.
 
 This app serves as a planetary hours calculator, dynamically determining the current planetary hour based on the user's location. Each hour is associated with a specific celestial body, and Alchemelody goes beyond simple calculations by integrating these concepts into an interactive experience:
